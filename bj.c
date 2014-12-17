@@ -1,7 +1,7 @@
 int main() {
 	int i = 0;
 
-	printf("Hello World, %n", i);
-
+	printf("Bitte Welt, %n", i);
+	
 	return 0;
 }
